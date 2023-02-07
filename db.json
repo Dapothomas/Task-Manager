@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Go to Stadium",
+      "day": "March 13th at 2:40pm",
+      "reminder": false,
+      "id": "Za2s4Pb"
+    },
+    {
+      "text": "Go to Pool",
+      "day": "March 2nd at 9:00am",
+      "reminder": true,
+      "id": "m6FEkos"
+    },
+    {
+      "text": "Basketball",
+      "day": "February 4th at 12:10pm",
+      "reminder": true,
+      "id": "k2zUlXd"
+    }
+  ]
+}
